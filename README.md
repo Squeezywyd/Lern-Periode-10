@@ -21,6 +21,14 @@ Heute konnte ich meine Portfolio Website fertigstellen und habe mich anschliesse
 
 ## Arbeitspakete 16.05.2025
 
-- [ ] Finale Änderungen an Portfolio Website
+- [x] Finale Änderungen an Portfolio Website
 - [ ] Veröffentlichung der Website mit eigener Domain
-- [ ] Ein neues, grösseres n8n Projekt starten.
+- [x] Ein neues, grösseres n8n Projekt starten.
+
+Restliche Reflexionen per Video an Herr Meyer
+
+## Arbeitspakete 06.06.2025
+
+- [ ] n8n Projekt erweitern
+- [ ] Nacharbeit Modul 165 NoSQL
+- [ ] Weiterarbeiten im Modul 306
