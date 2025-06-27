@@ -29,6 +29,22 @@ Restliche Reflexionen per Video an Herr Meyer
 
 ## Arbeitspakete 06.06.2025
 
-- [ ] n8n Projekt erweitern
-- [ ] Nacharbeit Modul 165 NoSQL
-- [ ] Weiterarbeiten im Modul 306
+- [x] n8n Projekt erweitern
+- [x] Nacharbeit Modul 165 NoSQL
+- [x] Weiterarbeiten im Modul 306
+
+## Arbeitspakete 13.06.2025
+
+- [x] Arbeit LB 306
+- [x] Arbeit LB 165
+- [x] n8n projekt
+
+## Arbeitspakete 20.06.2025
+
+- [x] Arbeit LB 165
+- [x] Arbeit LB 306
+
+## Arbeitspakete 27.06.2025
+- [ ] n8n projekt
+
+
